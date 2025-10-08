@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://onboard.you/sitemap.xml
